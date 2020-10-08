@@ -1,0 +1,13 @@
+D:\C#-course\Assignment-One\Assignment-One\bin\Debug\netcoreapp3.1\Assignment-One.exe
+D:\C#-course\Assignment-One\Assignment-One\bin\Debug\netcoreapp3.1\Assignment-One.deps.json
+D:\C#-course\Assignment-One\Assignment-One\bin\Debug\netcoreapp3.1\Assignment-One.runtimeconfig.json
+D:\C#-course\Assignment-One\Assignment-One\bin\Debug\netcoreapp3.1\Assignment-One.runtimeconfig.dev.json
+D:\C#-course\Assignment-One\Assignment-One\bin\Debug\netcoreapp3.1\Assignment-One.dll
+D:\C#-course\Assignment-One\Assignment-One\bin\Debug\netcoreapp3.1\Assignment-One.pdb
+D:\C#-course\Assignment-One\Assignment-One\obj\Debug\netcoreapp3.1\Assignment-One.csprojAssemblyReference.cache
+D:\C#-course\Assignment-One\Assignment-One\obj\Debug\netcoreapp3.1\Assignment-One.AssemblyInfoInputs.cache
+D:\C#-course\Assignment-One\Assignment-One\obj\Debug\netcoreapp3.1\Assignment-One.AssemblyInfo.cs
+D:\C#-course\Assignment-One\Assignment-One\obj\Debug\netcoreapp3.1\Assignment-One.csproj.CoreCompileInputs.cache
+D:\C#-course\Assignment-One\Assignment-One\obj\Debug\netcoreapp3.1\Assignment-One.dll
+D:\C#-course\Assignment-One\Assignment-One\obj\Debug\netcoreapp3.1\Assignment-One.pdb
+D:\C#-course\Assignment-One\Assignment-One\obj\Debug\netcoreapp3.1\Assignment-One.genruntimeconfig.cache
